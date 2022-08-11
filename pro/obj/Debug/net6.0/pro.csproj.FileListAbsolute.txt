@@ -1,0 +1,15 @@
+C:\Users\НО\Desktop\night\kor\pro\bin\Debug\net6.0\pro.exe
+C:\Users\НО\Desktop\night\kor\pro\bin\Debug\net6.0\pro.deps.json
+C:\Users\НО\Desktop\night\kor\pro\bin\Debug\net6.0\pro.runtimeconfig.json
+C:\Users\НО\Desktop\night\kor\pro\bin\Debug\net6.0\pro.dll
+C:\Users\НО\Desktop\night\kor\pro\bin\Debug\net6.0\pro.pdb
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\pro.csproj.AssemblyReference.cache
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\pro.AssemblyInfoInputs.cache
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\pro.AssemblyInfo.cs
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\pro.csproj.CoreCompileInputs.cache
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\pro.dll
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\refint\pro.dll
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\pro.pdb
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\pro.genruntimeconfig.cache
+C:\Users\НО\Desktop\night\kor\pro\obj\Debug\net6.0\ref\pro.dll
